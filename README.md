@@ -38,3 +38,24 @@ npm run dev
 
 # Run the frontend
 npm start
+
+
+::Features::
+
+>List of services provided by the clinic.
+>Contact form for appointment scheduling.
+>Information about pet care.
+
+::Development::
+This project uses the following technologies:
+
+>Frontend: React with Bootstrap for styling
+>Backend: Node.js and Express.js
+>Database: MongoDB with Mongoose ODM
+
+::License::
+This project is open-sourced under the MIT license.
+
+vbnet
+
+Remember that these are just the foundational files and code to get started. A f
